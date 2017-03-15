@@ -1,2 +1,2 @@
-# lintcode (Java)
+# lintcode
 For Lintcode practice
